@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jason-security.iml" filepath="$PROJECT_DIR$/jason-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jason-security-app/jason-security-app.iml" filepath="$PROJECT_DIR$/jason-security-app/jason-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jason-security-browser/jason-security-browser.iml" filepath="$PROJECT_DIR$/jason-security-browser/jason-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jason-security-core/jason-security-core.iml" filepath="$PROJECT_DIR$/jason-security-core/jason-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jason-security-demo/jason-security-demo.iml" filepath="$PROJECT_DIR$/jason-security-demo/jason-security-demo.iml" />
+    </modules>
+  </component>
+</project>
